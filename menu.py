@@ -11,6 +11,6 @@ while True:
           '[4]: ATUALIZAR'
           '[5]: SALVAR'
           '[6]: SAIR'
-          '[7]: teste2'
+          '[7]: teste4'
           )
     
