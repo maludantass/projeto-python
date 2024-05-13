@@ -12,7 +12,7 @@ Não foi feito uso de nenhuma biblioteca além da biblioteca nativa "os" que ser
 Funcionalidades
 
 Adicionar receita: Permite adicionar informações de um nova receita no Menu Principal, como nome, país e modo de preparo. 
-Visualizar Receitas por país: Mostra as receitas agrupados por países, exibindo nome, país e modo de preparo de cada receita. 
+Visualizar Receitas de cada país: Mostra as receitas agrupados por países, exibindo nome, país e modo de preparo de cada receita. 
 Atualizar Informações da Receita: Permite atualizar informações de uma receita existente no Menu Principal, como país, categoria e modo de preparo. 
 Excluir uma receita: Remove uma receita do Menu Principal. 
 Visualizar receitas por país: Mostra as receitas de um país específico no Menu Principal. 
