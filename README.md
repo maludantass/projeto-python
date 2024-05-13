@@ -41,4 +41,4 @@ Maria Júlia Dantas
 Antônio Trigueiro 
 Luiz Nogueira
 
-Licença Este projeto está licenciado sob a Licença Cesar School.
+Este projeto está licenciado sob a Licença Cesar School.
